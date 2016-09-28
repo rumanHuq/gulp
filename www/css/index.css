@@ -1,0 +1,21 @@
+/* line 1, C:/Users/a1300/workspace/hello.world/source/style/index.sass */
+.aClass {
+  border: 2px solid black; }
+
+/* line 3, C:/Users/a1300/workspace/hello.world/source/style/index.sass */
+body {
+  background: dimgrey; }
+
+/* line 5, C:/Users/a1300/workspace/hello.world/source/style/index.sass */
+ul {
+  color: grey;
+  list-style: none; }
+  /* line 9, C:/Users/a1300/workspace/hello.world/source/style/index.sass */
+  ul li {
+    font-size: 1rem;
+    float: left;
+    padding: 0;
+    margin-right: 2px; }
+    /* line 15, C:/Users/a1300/workspace/hello.world/source/style/index.sass */
+    ul li ul, ul li p {
+      display: inline; }
